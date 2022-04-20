@@ -1,0 +1,40 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "afterDelay",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.editorAssociations": {
+        "heoo word": "",
+        "*.jar": "default",
+        "*.exe": "default",
+        "*.docx": "default"
+    },
+    "files.exclude": {
+        "**/CVS": false
+    },
+    "timeline.excludeSources": [
+        "git-history"
+    ],
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "html.customData": [
+        "Git"
+    ],
+    "css.customData": [
+        "github.gitAuthentication"
+    ],
+    "git.autoStash": true,
+    "workbench.editor.enablePreview": false,
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true,
+        "suppressGitDisabledWarning": true
+    },
+    "launch": {
+        "configurations": [
+        
+        ]
+    }
+}
